@@ -8,7 +8,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/customer_db
     username: postgres
-    password: Nattu@2060
+    password: Dhoni@2060
 
   jpa:
     hibernate:
